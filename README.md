@@ -16,4 +16,5 @@ Yeni şeyler öğrenmeye hevesli ve açığım.Kendimi alanımda geliştirmeye �
 
 ---
 
-📫 **İletişim & Ağ:** fmervekilicarslan@gmail.com/https://www.linkedin.com/in/merve-k%C4%B1l%C4%B1%C3%A7arslan-1ab714355/
+📫 **İletişim & Ağ:** fmervekilicarslan@gmail.com
+                       https://www.linkedin.com/in/merve-k%C4%B1l%C4%B1%C3%A7arslan-1ab714355/
